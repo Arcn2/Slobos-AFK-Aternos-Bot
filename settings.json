@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "Arcn2rl.aternos.me",
+    "ip": "Arcn2rl.aternos.me:19944",
     "port": 19944,
     "version": "",
     "try-creative": true
