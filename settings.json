@@ -9,7 +9,7 @@
     "ip": "Arcn2rl.aternos.me",
     "port": 19944,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
